@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"github提交测试");
     
 }
 //DISPATCH_QUEUE_CONCURRENT 并发
